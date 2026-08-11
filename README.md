@@ -62,11 +62,33 @@ aulas/              contexto, exercícios e materiais por vídeo
 docs/grade.md       mapa completo da playlist
 ```
 
-## Progresso da playlist
 
-- `YT-001`: mapa do básico ao avançado;
-- `YT-002`: PostgreSQL, DBeaver e banco de vendas;
-- demais aulas: publicadas progressivamente conforme os vídeos forem liberados.
+## Índice das aulas
+
+- [`YT-001`](aulas/YT-001/) — SQL para Analistas: o mapa do básico ao avançado
+- [`YT-002`](aulas/YT-002/) — Ambiente SQL pronto: PostgreSQL, DBeaver e banco de vendas passo a passo
+- [`YT-003`](aulas/YT-003/) — Seu primeiro SELECT no SQL: colunas, aliases, DISTINCT e LIMIT
+- [`YT-004`](aulas/YT-004/) — WHERE, IN, BETWEEN e LIKE no SQL: filtros que respondem perguntas
+- [`YT-005`](aulas/YT-005/) — NULL, COALESCE e CASE no SQL: evite respostas erradas
+- [`YT-006`](aulas/YT-006/) — COUNT, SUM, AVG, MIN e MAX no SQL sem confundir métricas
+- [`YT-007`](aulas/YT-007/) — GROUP BY e HAVING no SQL: agregações sem confusão
+- [`YT-008`](aulas/YT-008/) — JOIN no SQL sem mistério: INNER e LEFT JOIN na prática
+- [`YT-009`](aulas/YT-009/) — JOIN duplicou seus dados? Granularidade e fan-out no SQL
+- [`YT-010`](aulas/YT-010/) — Datas no SQL sem erro: mês, semana, intervalos e comparação
+- [`YT-011`](aulas/YT-011/) — Limpeza de texto com SQL: strings, categorias e padronização
+- [`YT-012`](aulas/YT-012/) — Subqueries: quando usar e quando evitar
+- [`YT-013`](aulas/YT-013/) — CTEs com WITH: SQL legível em etapas
+- [`YT-014`](aulas/YT-014/) — Window Functions: analisando sem perder o detalhe
+- [`YT-015`](aulas/YT-015/) — Ranking e Top N por categoria com ROW_NUMBER e RANK
+- [`YT-016`](aulas/YT-016/) — LAG, LEAD e total acumulado: comparações ao longo do tempo
+- [`YT-017`](aulas/YT-017/) — UNION, INTERSECT, EXCEPT e deduplicação consciente
+- [`YT-018`](aulas/YT-018/) — Qualidade de dados com SQL: nulos, duplicados e regras inválidas
+- [`YT-019`](aulas/YT-019/) — KPIs de vendas: receita, ticket médio, clientes e margem
+- [`YT-020`](aulas/YT-020/) — Funil de conversão em SQL: visita, carrinho, compra
+- [`YT-021`](aulas/YT-021/) — Coortes e retenção: uma análise avançada passo a passo
+- [`YT-022`](aulas/YT-022/) — SQL lento? EXPLAIN, índices e consultas mais eficientes
+- [`YT-023`](aulas/YT-023/) — Boas práticas de SQL profissional: padrão, revisão e manutenção
+- [`YT-024`](aulas/YT-024/) — Projeto final: análise completa de um e-commerce com SQL
 
 ## Dados e segurança
 
